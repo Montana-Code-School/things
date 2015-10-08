@@ -7,7 +7,6 @@ exports.Food = function(name, foodPoints) {
 	// this is your exported constructor for 'Food'
 	// add what you need here to make the tests pass.
 };
-
-// remember to have the 'voodoo' code here to connect your prototype and constructor
+// remember to have the 'voodoo' code here to make Food inherit from Thing
 
 
